@@ -29,7 +29,7 @@ a) `crop.py`: This file takes an image (as numpy array) as input and crops it ba
 
 &nbsp;
 <p align="center">
-<img src='./sample_imgs/crop.png' width=400>
+<img src='./DataScience/sample_imgs/crop.png' width=400>
 </p>
 <p align="center">
 <b>Fig. (a)</b>. Crop Operation. </p>
@@ -49,7 +49,7 @@ c) `rotate.py`: This file takes an image (as numpy array) as input and rotates i
 
 &nbsp;
 <p align="center">
-<img src='./sample_imgs/rotate.png' width=400>
+<img src='./DataScience/sample_imgs/rotate.png' width=400>
 </p>
 <p align="center">
 <b>Fig. (c)</b>. Rotate Operation. </p>
@@ -59,7 +59,7 @@ d) `rescale.py`: This file takes an image (as numpy array) as input and rescales
 
 &nbsp;
 <p align="center">
-<img src='./sample_imgs/rescale.png' width=400>
+<img src='./DataScience/sample_imgs/rescale.png' width=400>
 </p>
 <p align="center">
 <b>Fig. (d)</b>. Rescale Operation. </p>
@@ -69,7 +69,7 @@ e) `blur.py`: This file takes an image (as numpy array) as input and applies a g
 
 &nbsp;
 <p align="center">
-<img src='./sample_imgs/blur.png' width=400>
+<img src='./DataScience/sample_imgs/blur.png' width=400>
 </p>
 <p align="center">
 <b>Fig. (e)</b>. Blur Operation. </p>
