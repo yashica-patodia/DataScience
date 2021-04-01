@@ -14,7 +14,7 @@ The details of each of the files/folders are as follows:
 
 &nbsp;
 <p align="center">
-<img src='./sample_imgs/bbox.png' width=400>
+<img src='./DataScience/sample_imgs/bbox.png' width=400>
 </p>
 <p align="center">
 <b>Fig. 1</b>. Sample Output of an Object Detector. </p>
